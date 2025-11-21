@@ -1,0 +1,7 @@
+{
+  "name": "716 Realty Group AI Portal",
+  "description": "Interactive AI Agents for Real Estate Management in Buffalo, NY",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
